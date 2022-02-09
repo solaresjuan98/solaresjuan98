@@ -3,7 +3,7 @@
 I'm Juan, a Science and Systems engineering student from Guatemala. I enjoy to learn new technologies and keep learning new things every day. My favorite framework is React.
 
 <!-- - 🔭 I’m currently studying on ... ---->
-- 🌱 I’m currently learning TypeScript and React Native
+- 🌱 I’m currently learning TypeScript, React, React Native and AWS
 <!-- - 👯 I’m looking to collaborate on ... ---->
 <!-- - 🤔 I’m looking for help with ... ---->
 - 💬 Ask me about React, Data structures
