@@ -13,4 +13,6 @@ I'm Juan, a Science and Systems engineering student from Guatemala. I enjoy to l
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=solaresjuan98&show_icons=true&theme=dracula)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solaresjuan98&hide=html,tex,makefile,yacc)](https://github.com/solaresjuan98/github-readme-stats?theme=cobalt)
+-->
