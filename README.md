@@ -3,12 +3,13 @@
 I'm Juan, a Science and Systems engineering student from Guatemala. I enjoy to learn new technologies and keep learning new things every day. My favorite framework is React.
 
 <!-- - 🔭 I’m currently studying on ... ---->
-- 🌱 I’m currently learning TypeScript, React, React Native and AWS
+<!-- - 🌱 I’m currently learning TypeScript, React, React Native and AWS ---->
 <!-- - 👯 I’m looking to collaborate on ... ---->
 <!-- - 🤔 I’m looking for help with ... ---->
-- 💬 Ask me about React, Data structures
+<!--  - 💬 Ask me about React, Data structures ---->
 <!-- - 📫 How to reach me: ... ---->
 <!-- - 😄 Pronouns: ... ---->
+
 - ⚡ Fun fact: In my free times, I usually play the guitar :D
 
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=solaresjuan98&show_icons=true&theme=dracula)
