@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Juan, I'm a Science and Systems engineering student and Web Developer from Guatemala. 
+My name is Juan, I'm a Science and Systems engineering student and GCP DevOps Engineer from Guatemala. 
 I enjoy to learn new technologies and keep learning new things every day. 
 
 <!-- - 🔭 I’m currently studying on ... ---->
