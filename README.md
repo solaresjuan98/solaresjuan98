@@ -32,3 +32,34 @@ I'm a self-directed learner who actively seeks out ways to further my knowledge 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solaresjuan98&hide=html,tex,makefile,yacc)](https://github.com/solaresjuan98/github-readme-stats?theme=cobalt)
 -->
+
+## Some of my projects
+
+### Album photo album / AWS
+* https://github.com/solaresjuan98/SEMI1_1S2022_PROYECTO_1
+
+### Kubernetes projects / GCP
+* https://github.com/solaresjuan98/so1-fase3
+* https://github.com/solaresjuan98/so1-practica2-1s2022
+
+### Python / Machine Learning
+* https://github.com/solaresjuan98/fastAPI-examples
+* https://github.com/solaresjuan98/python-data-science
+* https://github.com/solaresjuan98/COVID_TRACKER
+* https://github.com/solaresjuan98/data-science-courses
+
+### AWS with route 53
+* https://github.com/solaresjuan98/REDES2_1S2022_GRUPO9/tree/main/02-Proyecto
+
+### Sports prediction app
+* https://github.com/solaresjuan98/Quinielas_App
+
+### Spotify Clone
+* https://gitlab.com/solaresjuan98/frontend
+
+### SQL Projects
+* https://github.com/solaresjuan98/politics-sql
+* https://github.com/solaresjuan98/BD2_Grupo_2
+
+
+
