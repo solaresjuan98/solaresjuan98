@@ -55,11 +55,28 @@ I'm a self-directed learner who actively seeks out ways to further my knowledge 
 * https://github.com/solaresjuan98/Quinielas_App
 
 ### :pencil: Spotify Clone
+#### ☑️ frontend
 * https://gitlab.com/solaresjuan98/frontend
+
+#### ☑️ Microservices
+* https://gitlab.com/grupo10-ady2/servicios
+
+#### ☑️ Configurations / Docker / Kubernetes
+* https://gitlab.com/grupo10-ady2/backend
 
 ### :pencil: SQL Projects
 * https://github.com/solaresjuan98/politics-sql
 * https://github.com/solaresjuan98/BD2_Grupo_2
 
+### 📝 React Native Movies App
+* https://github.com/solaresjuan98/movies-app
 
+### :pencil: React Native PokeDex
+* https://github.com/solaresjuan98/reactnative-pokedex
+
+### :pencil: React Journal App
+* https://github.com/solaresjuan98/journal-app
+
+### :pencil: Bash Scriptiing
+* https://github.com/solaresjuan98/bash-scripting
 
