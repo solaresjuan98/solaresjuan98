@@ -80,3 +80,8 @@ I'm a self-directed learner who actively seeks out ways to further my knowledge 
 ### :pencil: Bash Scripting
 * https://github.com/solaresjuan98/bash-scripting
 
+### :pencil: Shopping App
+* https://gitlab.com/grupo2_sa/documentacion
+* https://gitlab.com/grupo2_sa/frontend
+* https://gitlab.com/grupo2_sa/K8s-Config (Kubernetes Configuration)
+
