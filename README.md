@@ -55,7 +55,7 @@ I'm a self-directed learner who actively seeks out ways to further my knowledge 
 * https://github.com/solaresjuan98/Quinielas_App
 
 ### :pencil: Spotify Clone
-#### ☑️ frontend
+#### ☑️ Frontend
 * https://gitlab.com/solaresjuan98/frontend
 
 #### ☑️ Microservices
@@ -77,6 +77,6 @@ I'm a self-directed learner who actively seeks out ways to further my knowledge 
 ### :pencil: React Journal App
 * https://github.com/solaresjuan98/journal-app
 
-### :pencil: Bash Scriptiing
+### :pencil: Bash Scripting
 * https://github.com/solaresjuan98/bash-scripting
 
