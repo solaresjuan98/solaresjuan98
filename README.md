@@ -36,7 +36,7 @@ I'm a self-directed learner who actively seeks out ways to further my knowledge 
 ## Some of my projects
 
 ### :pencil: Album photo album / AWS
-* https://github.com/solaresjuan98/SEMI1_1S2022_PROYECTO_1
+* https://github.com/solaresjuan98/SEMI1_1S2022_PROYECTO_11
 
 ### :pencil: Kubernetes projects / GCP
 * https://github.com/solaresjuan98/so1-fase3
